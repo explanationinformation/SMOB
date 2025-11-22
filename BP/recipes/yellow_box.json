@@ -1,0 +1,29 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "exinfo:yellow_box"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:honey_block"
+      }
+    },
+    "unlock": [
+      {
+        "item": "exinfo:yellow_box"
+      }
+    ],
+    "result": {
+      "item": "exinfo:yellow_box"
+    }
+  }
+}

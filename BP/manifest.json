@@ -1,0 +1,41 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Super Miner O Brother! [BP] ALPHA",
+		"description": "Adventure, power-ups, and pixelated chaos!",
+		"uuid": "ab20163f-839c-4480-b4ea-57e21c008872",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 21, 90]
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "d5332e28-5a60-4107-8b41-7aa634b90ce9",
+			"type": "data"
+		},
+		{
+			"type": "script",
+			"uuid": "d769a377-9767-4ab3-9100-d8de80af44b7",
+			"version": [1, 0, 0],
+			"entry": "scripts/main.js"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "f0eb7e97-ef06-4760-8e5f-740edb6cf6d4",
+			"version": [1, 0, 0]
+		},
+		{
+			"module_name": "@minecraft/server",
+			"version": "2.3.0"
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": "2.0.0"
+		}
+	],
+	"metadata": {
+		"product_type": "addon"
+	}
+}

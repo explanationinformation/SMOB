@@ -1,0 +1,9 @@
+{
+    "texture_data": {
+		"exinfo:ankle_biter_spawn_egg": {
+			"textures": "textures/items/spawn_eggs/ankle_biter.png"
+		}
+	},
+    "resource_pack_name": "vanilla",
+    "texture_name": "atlas.items"
+}

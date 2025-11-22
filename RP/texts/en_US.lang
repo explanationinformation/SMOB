@@ -1,0 +1,5 @@
+entity.exinfo:chomper.name=Chomper
+item.spawn_egg.entity.exinfo:chomper.name=Chomper Spawn Egg
+tile.exinfo:yellow_box.name=Yellow Box
+entity.exinfo:ankle_biter.name=Ankle Biter
+item.spawn_egg.entity.exinfo:ankle_biter.name=Ankle Biter Spawn Egg
