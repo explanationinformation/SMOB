@@ -1,0 +1,32 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "exinfo:ankle_biter",
+			"min_engine_version": "1.8.0",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/ankle_biter"
+			},
+			"geometry": {
+				"default": "geometry.exinfo.ankle_biter"
+			},
+			"spawn_egg": {
+				"texture": "exinfo:ankle_biter_spawn_egg"
+			},
+			"scripts": {
+				"animate": ["look_at_player", "basic"]
+			},
+			"animations": {
+				"basic": "controller.animation.ankle_biter",
+				"attack": "animation.ankle_biter.attack",
+				"idle": "animation.ankle_biter.idle",
+				"run": "animation.ankle_biter.run",
+				"look_at_player": "animation.common.look_at_target"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"entity_sounds": {
+		"entities": {
+			"exinfo:ankle_biter": {
+				"events": {
+					"ambient": "mob.vindicator.idle",
+					"ambient.in.raid": {
+						"pitch": [1.2, 1.8],
+						"sound": "mob.vindicator.idle",
+						"volume": 3
+					},
+					"death": "mob.vindicator.death",
+					"hurt": "mob.vindicator.hurt"
+				},
+				"pitch": [1.2, 1.8],
+				"volume": 1
+			},
+			"exinfo:chomper": {
+				"events": {
+					"ambient" : "mob.creaking.ambient",
+					"attack" : "mob.creaking.attack",
+					"death" : "mob.creaking.death"
+				 },
+				 "pitch" : 1.8,
+				 "volume" : 1.0
+			}
+		}
+	}
+}
