@@ -16,6 +16,8 @@ A chompy plant lurking in the world. It shoots fireballs, snaps shut, and adds a
 
 A loot box that acts as a themed container. Break it to get ingots, diamonds, and other useful goodies.
 
+## Screenshots
+
 <img width="1920" height="1080" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/459d3e69-e925-4da6-a52b-b27add315fb6" />
 
 Future updates may refine behaviors, add more mobs, or expand the gameplay loop.
