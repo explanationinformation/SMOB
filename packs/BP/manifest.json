@@ -5,7 +5,7 @@
 		"description": "Adventure, power-ups, and pixelated chaos!",
 		"uuid": "ab20163f-839c-4480-b4ea-57e21c008872",
 		"version": [1, 0, 0],
-		"min_engine_version": [1, 21, 90]
+		"min_engine_version": [1, 21, 130]
 	},
 	"modules": [
 		{
@@ -28,7 +28,7 @@
 		},
 		{
 			"module_name": "@minecraft/server",
-			"version": "2.3.0"
+			"version": "2.4.0"
 		},
 		{
 			"module_name": "@minecraft/server-ui",
