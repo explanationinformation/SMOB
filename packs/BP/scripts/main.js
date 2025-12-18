@@ -1,6 +1,3 @@
-import { system, world } from "@minecraft/server";
+import { registerEvents } from "./events.js";
 
-system.run(() => {
-    world.getDimension("overworld").runCommand("say Hello world!"); 
-});
-
+registerEvents();
